@@ -1,0 +1,10 @@
+{
+  "drinkType": "Cappuccino",
+  "size": "medium",
+  "milk": "almond",
+  "extras": [
+    "cinnamon"
+  ],
+  "name": "Atabul",
+  "created_at": "2025-11-23T10:47:32.743582Z"
+}
