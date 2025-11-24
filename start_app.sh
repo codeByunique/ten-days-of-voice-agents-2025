@@ -9,6 +9,9 @@ livekit-server --dev &
 # Start Day 2 - Barista Agent
 (cd backend && uv run python src/barista_agent.py dev) &
 
+# Start Day 3 - Wellness Agent
+(cd backend && uv run python src/wellness_agent.py dev) &
+
 # Start Frontend
 (cd frontend && pnpm dev) &
 

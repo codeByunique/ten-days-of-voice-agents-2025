@@ -1,0 +1,55 @@
+[
+  {
+    "timestamp": "2025-11-23T23:03:29.469973Z",
+    "mood": "Good",
+    "energy": "10/5",
+    "objectives": [
+      "Meetings",
+      "Watching movies"
+    ],
+    "note": "Good mood, high energy, and the focus is on meetings and movies."
+  },
+  {
+    "timestamp": "2025-11-23T23:03:55.139244Z",
+    "mood": "Good",
+    "energy": "Very High",
+    "objectives": [
+      "meetings",
+      "watching movies",
+      "reading book",
+      "programming"
+    ],
+    "note": "User is feeling good and very high energy, and plans to focus on meetings, movies, reading, and programming."
+  },
+  {
+    "timestamp": "2025-11-23T23:09:27.757456Z",
+    "mood": "Narwish",
+    "energy": "Three out of ten",
+    "objectives": [
+      "Weakness",
+      "exam tension"
+    ],
+    "note": "User feeling narwish with low energy and exam tension."
+  },
+  {
+    "timestamp": "2025-11-24T10:25:25.202004Z",
+    "mood": "Happy",
+    "energy": "5/10",
+    "objectives": [
+      "sleeping",
+      "Walking"
+    ],
+    "note": "User is feeling Happy and wants to Walking, and sleeping today."
+  },
+  {
+    "timestamp": "2025-11-24T11:24:21.460787Z",
+    "mood": "Fine",
+    "energy": "5/10",
+    "objectives": [
+      "work",
+      "exercise",
+      "coding"
+    ],
+    "note": "User is feeling fine with moderate energy, aiming to work, exercise, and code today."
+  }
+]
