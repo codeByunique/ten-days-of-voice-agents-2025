@@ -12,6 +12,9 @@ livekit-server --dev &
 # Start Day 3 - Wellness Agent
 (cd backend && uv run python src/wellness_agent.py dev) &
 
+# Day 4 - Tutor Agent
+(cd backend && uv run python src/tutor_agent.py dev) &
+
 # Start Frontend
 (cd frontend && pnpm dev) &
 
