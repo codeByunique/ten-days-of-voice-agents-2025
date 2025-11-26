@@ -1,0 +1,26 @@
+{
+  "company": "BrowserStack",
+  "overview": "BrowserStack is a cloud platform for testing websites and mobile apps on real browsers, devices and operating systems. Teams can run manual and automated tests without maintaining their own device lab.",
+  "who_is_it_for": "Software developers, QA engineers, product and testing teams who need to test websites and apps across many browsers and real mobile devices.",
+  "what_we_do": "We provide instant access to thousands of real browsers and devices in the cloud so you can test your websites and apps for bugs, responsiveness, performance and compatibility.",
+  "pricing_basics": "BrowserStack offers multiple products like Live for manual testing and App Live for mobile app testing, with plans starting around $39 per month for individual live testing and higher tiers for teams and automation. There is also a free trial so you can try the platform before paying.",
+  "free_tier": "BrowserStack offers a time-limited free trial so you can test the platform, and has special free access for open source projects.",
+  "faq": [
+    {
+      "q": "What does your product do?",
+      "a": "BrowserStack lets you test websites and mobile apps on real browsers and devices in the cloud, so you can catch bugs and layout issues without maintaining your own device lab."
+    },
+    {
+      "q": "Who is this for?",
+      "a": "It is built for developers, QA engineers and testing teams who need reliable cross-browser and real-device testing."
+    },
+    {
+      "q": "Do you have a free tier?",
+      "a": "Yes. We provide a free trial so you can experience the platform before choosing a paid plan, and we have special free access for open source projects."
+    },
+    {
+      "q": "How does pricing work?",
+      "a": "Pricing depends on the product and number of users. Individual Live plans start around $39 per month, with higher-tier plans for teams, mobile apps and automation. For exact pricing we usually recommend checking the pricing page or talking to sales."
+    }
+  ]
+}

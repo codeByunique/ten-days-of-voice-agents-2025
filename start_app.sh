@@ -15,6 +15,9 @@ livekit-server --dev &
 # Day 4 - Tutor Agent
 (cd backend && uv run python src/tutor_agent.py dev) &
 
+# Day 5 - SDR Agent
+(cd backend && uv run python src/sdr_agent.py dev) &
+
 # Start Frontend
 (cd frontend && pnpm dev) &
 
