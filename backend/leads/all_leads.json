@@ -1,28 +1,15 @@
 [
   {
     "name": "Rahul Mehta",
-    "company": "SM Tech",
+    "company": "xyz Tech",
     "email": "Rahul.meta@example.com",
-    "role": "skill lead",
-    "use_case": "web testing and maybe Ed Moyle",
-    "team_size": "8",
+    "role": "team lead",
+    "use_case": "web testing and mobile testing",
+    "team_size": "10",
     "timeline": "now",
     "notes": " Unknown",
     "created_at": "2025-11-26T11:29:09.843594Z",
     "saved_at": "2025-11-26T11:30:50.935706Z",
-    "_room": "default"
-  },
-  {
-    "name": "Rahul Mehta",
-    "company": "SM Tech",
-    "email": "Rahul.meta@example.com",
-    "role": "skill lead",
-    "use_case": "web testing and maybe Ed Moyle",
-    "team_size": "8",
-    "timeline": "soon",
-    "notes": "",
-    "created_at": "2025-11-26T11:30:50.941221Z",
-    "saved_at": "2025-11-26T11:31:43.749820Z",
     "_room": "default"
   },
   {
