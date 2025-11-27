@@ -18,6 +18,9 @@ livekit-server --dev &
 # Day 5 - SDR Agent
 (cd backend && uv run python src/sdr_agent.py dev) &
 
+# Day 6 - Fraud detection Agent
+(cd backend && uv run python src/fraud_detection_agent.py dev) &
+
 # Start Frontend
 (cd frontend && pnpm dev) &
 

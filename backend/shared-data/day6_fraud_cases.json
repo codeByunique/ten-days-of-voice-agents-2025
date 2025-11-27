@@ -1,0 +1,32 @@
+[
+  {
+    "caseId": "case_001",
+    "userName": "Raj",
+    "securityIdentifier": "12345",
+    "cardEnding": "4242",
+    "amount": "₹7,500",
+    "merchantName": "ABC Electronics",
+    "location": "Mumbai, India",
+    "timestamp": "2025-11-20T14:32:00Z",
+    "securityQuestion": "What is your favorite color?",
+    "securityAnswer": "blue",
+    "status": "confirmed_safe",
+    "outcomeNote": "User confirmed the transaction for ₹7,500 at ABC Electronics.",
+    "updatedAt": "2025-11-27T13:09:28.532028Z"
+  },
+  {
+    "caseId": "case_002",
+    "userName": "Sara",
+    "securityIdentifier": "98765",
+    "cardEnding": "8899",
+    "amount": "₹12,000",
+    "merchantName": "Global Travel Services",
+    "location": "Delhi, India",
+    "timestamp": "2025-11-19T09:15:00Z",
+    "securityQuestion": "What city were you born in?",
+    "securityAnswer": "delhi",
+    "status": "confirmed_fraud",
+    "outcomeNote": "User confirmed they did not make the transaction for ₹12,000 at Global Travel Services.",
+    "updatedAt": "2025-11-27T13:11:47.493886Z"
+  }
+]
