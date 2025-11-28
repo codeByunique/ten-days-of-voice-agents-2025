@@ -1,0 +1,35 @@
+[
+  {
+    "order_id": "ORDER_1764322767",
+    "store": "QuickKart Fresh",
+    "timestamp": "2025-11-28T15:09:27.686180Z",
+    "currency": "INR",
+    "items": [
+      {
+        "id": "bread_wholewheat",
+        "name": "Whole Wheat Bread",
+        "quantity": 1,
+        "price": 45,
+        "subtotal": 45
+      },
+      {
+        "id": "peanut_butter_jar",
+        "name": "Peanut Butter Jar",
+        "quantity": 1,
+        "price": 180,
+        "subtotal": 180
+      },
+      {
+        "id": "eggs_6pack",
+        "name": "Eggs - 6 Pack",
+        "quantity": 1,
+        "price": 60,
+        "subtotal": 60
+      }
+    ],
+    "total": 285,
+    "customer_name": null,
+    "address": null,
+    "status": "placed"
+  }
+]

@@ -1,0 +1,135 @@
+{
+  "store_name": "QuickKart Fresh",
+  "currency": "INR",
+  "items": [
+    {
+      "id": "bread_wholewheat",
+      "name": "Whole Wheat Bread",
+      "category": "Groceries",
+      "price": 45,
+      "unit": "1 loaf",
+      "tags": ["bread", "sandwich", "vegetarian"]
+    },
+    {
+      "id": "eggs_6pack",
+      "name": "Eggs - 6 Pack",
+      "category": "Groceries",
+      "price": 60,
+      "unit": "6 eggs",
+      "tags": ["breakfast", "protein", "non_veg"]
+    },
+    {
+      "id": "milk_1l",
+      "name": "Toned Milk 1L",
+      "category": "Groceries",
+      "price": 55,
+      "unit": "1 litre",
+      "tags": ["dairy", "breakfast"]
+    },
+    {
+      "id": "peanut_butter_jar",
+      "name": "Peanut Butter Jar",
+      "category": "Groceries",
+      "price": 180,
+      "unit": "340g",
+      "tags": ["spread", "sandwich", "vegetarian"]
+    },
+    {
+      "id": "pasta_500g",
+      "name": "Pasta 500g",
+      "category": "Groceries",
+      "price": 90,
+      "unit": "500g",
+      "tags": ["pasta", "italian", "vegetarian"]
+    },
+    {
+      "id": "pasta_sauce",
+      "name": "Tomato Pasta Sauce",
+      "category": "Groceries",
+      "price": 120,
+      "unit": "350g",
+      "tags": ["sauce", "italian", "vegetarian"]
+    },
+    {
+      "id": "cheese_slices",
+      "name": "Cheese Slices Pack",
+      "category": "Groceries",
+      "price": 110,
+      "unit": "10 slices",
+      "tags": ["cheese", "sandwich"]
+    },
+    {
+      "id": "chips_masala",
+      "name": "Masala Potato Chips",
+      "category": "Snacks",
+      "price": 30,
+      "unit": "80g",
+      "tags": ["snack", "chips", "vegetarian"]
+    },
+    {
+      "id": "chocolate_bar",
+      "name": "Dark Chocolate Bar",
+      "category": "Snacks",
+      "price": 80,
+      "unit": "100g",
+      "tags": ["snack", "sweet", "vegetarian"]
+    },
+    {
+      "id": "cold_drink",
+      "name": "Sparkling Cola 750ml",
+      "category": "Snacks",
+      "price": 45,
+      "unit": "750ml",
+      "tags": ["soft_drink"]
+    },
+    {
+      "id": "veg_pizza",
+      "name": "Veg Margherita Pizza",
+      "category": "PreparedFood",
+      "price": 249,
+      "unit": "1 medium pizza",
+      "tags": ["pizza", "vegetarian", "ready_to_eat"]
+    },
+    {
+      "id": "chicken_sandwich",
+      "name": "Grilled Chicken Sandwich",
+      "category": "PreparedFood",
+      "price": 199,
+      "unit": "1 sandwich",
+      "tags": ["sandwich", "non_veg", "ready_to_eat"]
+    },
+    {
+      "id": "veg_sandwich",
+      "name": "Veg Club Sandwich",
+      "category": "PreparedFood",
+      "price": 169,
+      "unit": "1 sandwich",
+      "tags": ["sandwich", "vegetarian", "ready_to_eat"]
+    },
+    {
+      "id": "instant_noodles",
+      "name": "Instant Masala Noodles",
+      "category": "Groceries",
+      "price": 25,
+      "unit": "1 pack",
+      "tags": ["noodles", "snack", "quick"]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "pb_sandwich",
+      "name": "Peanut Butter Sandwich",
+      "items": ["bread_wholewheat", "peanut_butter_jar"]
+    },
+    {
+      "id": "pasta_for_two",
+      "name": "Pasta for Two",
+      "items": ["pasta_500g", "pasta_sauce", "cheese_slices"]
+    },
+    {
+      "id": "simple_breakfast",
+      "name": "Simple Breakfast",
+      "items": ["bread_wholewheat", "eggs_6pack", "milk_1l"]
+    }
+  ]
+}
