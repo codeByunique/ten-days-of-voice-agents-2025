@@ -24,6 +24,9 @@ livekit-server --dev &
 # Day 7 - Food & Grocery Ordering Agent
 (cd backend && uv run python src/food_agent.py dev) &
 
+# Day 8 – Game Master Agent
+(cd backend && uv run python src/game_master_agent.py dev) &
+
 # Start Frontend
 (cd frontend && pnpm dev) &
 
